@@ -1,1 +1,1 @@
-Print("Hello this is python file from Github")
+print("Hello this is python file from Github")
